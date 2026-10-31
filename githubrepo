@@ -1,0 +1,9 @@
+curl.exe -s https://api.github.com/repos/sushineworld/expressBookReviews
+
+{
+  "full_name": "sushineworld/expressBookReviews",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/expressBookReviews"
+  }
+}
