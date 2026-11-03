@@ -1,0 +1,1 @@
+curl.exe -X POST http://localhost:5000/customer/login -H "Content-Type: application/json" -d "{\"username\":\"coursera_student_2026\",\"password\":\"password123\"}"
